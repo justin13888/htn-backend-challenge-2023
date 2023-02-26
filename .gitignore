@@ -56,3 +56,13 @@ profile-*
 profile*
 *clinic*
 *flamegraph*
+
+dist/
+*.env*
+
+TODO.md
+
+/prisma/.env
+/prisma/migrations
+!/prisma/migrations/__init__.py
+prisma/hackers.db**
